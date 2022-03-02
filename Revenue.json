@@ -1,0 +1,57 @@
+{
+    "chart": {
+        "caption": "Revenue",
+        "subCaption": "August 2021 - March 2022",
+        "xAxisName": "Month",
+        "yAxisName": "Total Amount",
+        "lineThickness": "3",
+        "theme": "candy"
+    },
+    "data": [
+        {
+            "label": "August",
+            "value": "1023"
+        },
+        {
+            "label": "September",
+            "value": "2026"
+        },
+        {
+            "label": "October",
+            "value": "9023"
+        },
+        {
+            "label": "November",
+            "value": "11100"
+        },
+        {
+            "label": "December",
+            "value": "12529"
+        },
+        {
+            "label": "January",
+            "value": "13803"
+        },
+        {
+            "label": "February",
+            "value": "10202"
+        },
+        {
+            "label": "March",
+            "value": "1202"
+        }
+    ],
+    "trendlines": [
+        {
+            "line": [
+                {
+                    "startvalue": "5000",
+                    "color": "#de3163",
+                    "displayvalue": "Average",
+                    "valueOnRight": "1",
+                    "thickness": "4"
+                }
+            ]
+        }
+    ]
+}
