@@ -1,0 +1,43 @@
+{
+    "chart": {
+        "caption": "Rides Requests",
+        "subCaption": "total number of rides request",
+        "yAxisName": "Rides",
+        "xAxisName": "Months"
+        "theme": "candy"
+    },
+    "data": [
+        {
+            "label": "August",
+            "value": "27"
+        },
+        {
+            "label": "September",
+            "value": "70"
+        },
+        {
+            "label": "October",
+            "value": "200"
+        },
+        {
+            "label": "November",
+            "value": "190"
+        },
+        {
+            "label": "December",
+            "value": "200"
+        },
+        {
+            "label": "January",
+            "value": "210"
+        },
+        {
+            "label": "February",
+            "value": "170"
+        },
+        {
+            "label": "March",
+            "value": "148"
+        }
+    ]
+}
