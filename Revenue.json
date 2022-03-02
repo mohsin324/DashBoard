@@ -4,7 +4,7 @@
         "subCaption": "August 2021 - March 2022",
         "xAxisName": "Month",
         "yAxisName": "Total Amount",
-        "lineThickness": "3",
+        "lineThickness": "4",
         "theme": "candy"
     },
     "data": [
@@ -45,7 +45,7 @@
         {
             "line": [
                 {
-                    "startvalue": "5000",
+                    "startvalue": "7000",
                     "color": "#de3163",
                     "displayvalue": "Average",
                     "valueOnRight": "1",
