@@ -3,7 +3,7 @@
         "caption": "Rides Requests",
         "subCaption": "total number of rides request",
         "yAxisName": "Rides",
-        "xAxisName": "Months"
+        "xAxisName": "Months",
         "theme": "candy"
     },
     "data": [
