@@ -1,0 +1,21 @@
+{
+    "chart": {
+        "caption": "Riders Response",
+        "subCaption": "total number of acceptance and rejection of rides",
+        "theme": "candy"
+    },
+    "data": [
+        {
+            "label": "Accept Rides",
+            "value": "67"
+        },
+        {
+            "label": "Rejection",
+            "value": "23"
+        },
+        {
+            "label": "Not Respond",
+            "value": "10"
+        }
+    ]
+}
